@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LabaPokemon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LabaPokemon_jar</output-path>
+    <root id="archive" name="LabaPokemon.jar">
+      <element id="module-output" name="LabaPokemon" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/Pokemon.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

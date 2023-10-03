@@ -10,6 +10,7 @@ import ru.ifmo.se.pokemon.Type;
 public class Amoonguss extends Pokemon {
 
     public Amoonguss(java.lang.String s, int i){
+        //this();
         super(s, i);
         this.addType(Type.POISON);
         this.addType(Type.GRASS);
